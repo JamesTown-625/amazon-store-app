@@ -1,0 +1,15 @@
+{
+  "name": "amazon-store-app",
+  "version": "1.0.0",
+  "description": "Amazon-like store front app to buy products from command line",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JNT",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^4.0.1",
+    "mysql": "github:mysqljs/mysql"
+  }
+}
